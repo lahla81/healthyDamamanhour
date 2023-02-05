@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LuckiestGuy-Regular';
+    src: url('LuckiestGuy-Regular.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NotoSansArabic-Regular';
+    src: url('NotoSansArabic.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

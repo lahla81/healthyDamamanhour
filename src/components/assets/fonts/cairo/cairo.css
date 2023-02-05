@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Cairo Regular';
+    src: url('Cairo-Regular.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cairo Bold';
+    src: url('Cairo-Bold.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cairo SemiBold';
+    src: url('Cairo-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

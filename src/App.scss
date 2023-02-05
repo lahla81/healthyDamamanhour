@@ -1,0 +1,27 @@
+body{
+  font-family: 'NotoSansArabic-Regular';
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.text-bold{
+  font-weight: bold;
+}
+.main-color{
+  color: #99147d;
+  &:hover{
+    color: #2496a1;
+  }
+}
+.main-color1{
+  color: #cd4cb0;
+  &:hover{
+    color: #2496a1;
+  }
+}
+.main-color2{
+  color: #ea7fcd;
+}
+.green-color{
+  color: #2496a1;
+}

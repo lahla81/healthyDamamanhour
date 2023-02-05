@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import App from './App';
@@ -13,9 +13,9 @@ root.render(
   <Provider store={store}>
     <React.StrictMode>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter>
+        <HashRouter>
           <App />
-        </BrowserRouter>
+        </HashRouter>
       </PersistGate>
     </React.StrictMode>
   </Provider>
